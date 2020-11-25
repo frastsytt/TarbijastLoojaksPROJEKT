@@ -1,5 +1,9 @@
+# Programm arvutab sisestatud kogus eurosid ümber soovitud valuutaks.
+# Tööautorid: Roomet Sütt ja Taavi 
+
 import requests
 import csv
+
 
 # Defineerime arvutuse funktsiooni
 def valuutavahetus(nimi, raha):
